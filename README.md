@@ -277,7 +277,7 @@ Human-AI collaborative drafting used for formatting and reproducibility tooling.
 
 ## Contact
 
-For questions, reproducibility requests, or collaboration: add contact email in `paper/` metadata (camera-ready PDF contains contact line).
+For questions, reproducibility requests, or collaboration: add contact email arayawedding@gmail.com
 
 ---
 
